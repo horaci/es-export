@@ -1,0 +1,23 @@
+{
+  "name": "es-export",
+  "description": "",
+  "version": "0.0.1",
+  "author": "Horaci Cuevas",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/horaci/es-export.git"
+  },
+  "main": "./export.js",
+  "dependencies": {
+    "nomnom": "1.6.2",
+    "request": "2.34.0",
+    "async": "^0.7.0",
+    "colors": "^0.6.2"
+  },
+  "devDependencies": {
+    "mocha": "1.13.0"
+  },
+  "engine": {
+    "node": ">=0.10"
+  }
+}
